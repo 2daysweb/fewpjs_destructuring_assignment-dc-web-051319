@@ -1,3 +1,5 @@
+//farm animals destructuring begins// 
+
 const farmAnimals = 'cow horse sheep pig chicken'
 
 const [moo, neigh, baa, oink, cluck] = farmAnimals.split(" ")
@@ -6,11 +8,15 @@ const [Bessie, ,Dolly, Babe, Little] = farmAnimals.split(" ")
 
 const [black_and_white, ,black, pink] = farmAnimals.split(" ")
 
+//Colors destructuring begins///
+
 const colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
 
 const [red, orange, yellow, green, blue, indigo, violet] = colors
 
 const [r, o, y, g, b, ,v] = colors 
+
+const [, , , , ,indg, ] = colors 
 
 
 const muppet = {

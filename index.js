@@ -45,7 +45,7 @@ const k_muppet = {
   k_partner: 'Miss Piggy'
 };
 
-const {song_2, 
+const {song_2, song_4, 
 
 
 

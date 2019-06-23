@@ -1,11 +1,5 @@
 const farmAnimals = 'cow horse sheep pig chicken'
 
-// const moo = farmAnimals.split(" ")[0]
-// const neigh = farmAnimals.split(" ")[1]
-// const baa = farmAnimals.split(" ")[2]
-// const oink = farmAnimals.split(" ")[3]
-// const cluck = farmAnimals.split(" ")[4]
-
 const [moo, neigh, baa, oink, cluck] = farmAnimals.split(" ")
 
 const [Bessie, ,Dolly, Babe, Little] = farmAnimals.split(" ")

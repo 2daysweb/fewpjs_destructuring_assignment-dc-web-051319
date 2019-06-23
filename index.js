@@ -1,7 +1,10 @@
 const farmAnimals = 'cow horse sheep pig chicken'
 
- const moo = farmAnimals.split(" ")[0]
- 
+const moo = farmAnimals.split(" ")[0]
+const moo = farmAnimals.split(" ")[0]
+const moo = farmAnimals.split(" ")[0]
+const moo = farmAnimals.split(" ")[0]
+const moo = farmAnimals.split(" ")[0]
 
 const colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
 

@@ -6,7 +6,6 @@ const baa = farmAnimals.split(" ")[2]
 const oink = farmAnimals.split(" ")[3]
 const cluck = farmAnimals.split(" ")[4]
 
-
 const colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
 
 const muppet = {

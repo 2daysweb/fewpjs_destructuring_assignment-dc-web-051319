@@ -18,6 +18,7 @@ const [r, o, y, g, b, ,v] = colors
 
 const [, , , , ,indg, ] = colors 
 
+//begin Muppet destructuring//
 
 const muppet = {
   name: 'Kermit',
@@ -25,7 +26,9 @@ const muppet = {
   song: 'The Rainbow Connection',
   job: 'Host of The Muppet Show',
   partner: 'Miss Piggy'
-};
+}; 
+
+const {name, color, song, job, partner} = muppet 
 
 const k_muppet = {
   k_name: 'Kermit',

@@ -1,9 +1,9 @@
-const farmAnimals = 'cow horse sheep pig chicken'
-const moo = farmAnimals.split(" ")[0]
-const neigh = farmAnimals.split(" ")[1]
-const baa = farmAnimals.split(" ")[2]
-const oink = farmAnimals.split(" ")[3]
-const cluck = farmAnimals.split(" ")[4]
+// const farmAnimals = 'cow horse sheep pig chicken'
+// const moo = farmAnimals.split(" ")[0]
+// const neigh = farmAnimals.split(" ")[1]
+// const baa = farmAnimals.split(" ")[2]
+// const oink = farmAnimals.split(" ")[3]
+// const cluck = farmAnimals.split(" ")[4]
 
 const colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
 

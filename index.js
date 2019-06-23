@@ -44,8 +44,7 @@ const k_muppet = {
   k_job: 'Host of The Muppet Show',
   k_partner: 'Miss Piggy'
 };
-
-const {song_2, song_4, 
+const {song_2,
 
 
 
